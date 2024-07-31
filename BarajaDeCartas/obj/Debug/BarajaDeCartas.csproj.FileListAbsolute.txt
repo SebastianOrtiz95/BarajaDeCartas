@@ -1,0 +1,7 @@
+E:\PBAC#\DiscoDuroDeRoer\POO\BarajaDeCartas\obj\Debug\BarajaDeCartas.csproj.AssemblyReference.cache
+E:\PBAC#\DiscoDuroDeRoer\POO\BarajaDeCartas\obj\Debug\BarajaDeCartas.csproj.CoreCompileInputs.cache
+E:\PBAC#\DiscoDuroDeRoer\POO\BarajaDeCartas\bin\Debug\BarajaDeCartas.exe.config
+E:\PBAC#\DiscoDuroDeRoer\POO\BarajaDeCartas\bin\Debug\BarajaDeCartas.exe
+E:\PBAC#\DiscoDuroDeRoer\POO\BarajaDeCartas\bin\Debug\BarajaDeCartas.pdb
+E:\PBAC#\DiscoDuroDeRoer\POO\BarajaDeCartas\obj\Debug\BarajaDeCartas.exe
+E:\PBAC#\DiscoDuroDeRoer\POO\BarajaDeCartas\obj\Debug\BarajaDeCartas.pdb
