@@ -8,6 +8,7 @@ namespace BarajaDeCartas
 {
     public class Baraja
     {
+        //asdsjdsdsjhds
         private Carta[] cartas=new Carta[40];
         private static int[] numeroDeCartas = {1,2,3,4,5,6,7,10,11,12};
         private Carta[] cartasMontonMaso = new Carta[40];
